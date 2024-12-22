@@ -23,4 +23,9 @@ export const Colors = {
     tabIconDefault: '#9BA1A6',
     tabIconSelected: tintColorDark,
   },
+  common: {
+    playlistAvatarBg: "#154303",
+    primaryRipple: "#323f85",
+    dangerRipple: "#853232"
+  }
 };
