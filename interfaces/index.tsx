@@ -3,6 +3,11 @@ export interface PlayList {
     id: string;
 }
 
+export interface Song {
+    title: string;
+    id: string;
+}
+
 export interface ConfrimDialogProps {
     content: string,
     visible: boolean,

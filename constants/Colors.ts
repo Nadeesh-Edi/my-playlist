@@ -26,6 +26,7 @@ export const Colors = {
   common: {
     playlistAvatarBg: "#154303",
     primaryRipple: "#323f85",
-    dangerRipple: "#853232"
+    dangerRipple: "#853232",
+    playIcon: "#67E064"
   }
 };
